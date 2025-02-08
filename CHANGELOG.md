@@ -2,6 +2,10 @@
 
 ## v2.2.15
 
+* add x86 macos to build matrix [e377f19](https://github.com/dotzenith/PineSAM/commit/e377f19571cc767a248ce59c1434c7a85acaa839)
+
+## v2.2.15
+
 * remove xargs from start.sh [634da81](https://github.com/builder555/PineSAM/commit/634da81f239c08027cc799d264526d0f95ce9fa0)
 * Merge pull request #228 from dotzenith/remove-xargs
 
